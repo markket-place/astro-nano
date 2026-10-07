@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://markket.place/sitemap-index.xml
