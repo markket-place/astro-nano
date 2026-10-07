@@ -1,9 +1,9 @@
 ---
-title: "Astro Nano"
-description: "Minimal portfolio and blog build with astro and no frameworks."
-date: "Mar 26 2024"
-demoURL: "https://astro-nano-demo.vercel.app"
-repoURL: "https://github.com/markhorn-dev/astro-nano"
+title: "NoHo"
+description: "Friendly websites for local business in North Hollywood"
+date: "Oct 05 2026"
+demoURL: "https://noho.markket.place"
+repoURL: "https://github.com/markket-place/noho"
 ---
 
 ![Astro Nano](/astro-nano.png)

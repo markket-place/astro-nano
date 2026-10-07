@@ -1,9 +1,9 @@
 ---
-title: "Astro Sphere"
-description: "Portfolio and blog build with astro."
-date: "Mar 18 2024"
-demoURL: "https://astro-sphere-demo.vercel.app"
-repoURL: "https://github.com/markhorn-dev/astro-sphere"
+title: "Personal Portfolio"
+description: "Portfolio and blog build with astro"
+date: "Oct 07 2026"
+demoURL: "https://daveed.markket.place"
+repoURL: "github.com/markket-place/personal/"
 ---
 
 ![Astro Sphere Lighthouse Score](/astro-sphere.jpg)

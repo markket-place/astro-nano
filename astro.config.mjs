@@ -4,6 +4,9 @@ import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
-  site: "https://astro-nano-demo.vercel.app",
+  site: "https://markket.place",
+  build: {
+	assets: "noho",
+  },
   integrations: [mdx(), sitemap(), tailwind()],
 });
